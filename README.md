@@ -1,13 +1,17 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Golu Kumar</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=golu7059&label=Profile%20views&color=0e75b6&style=flat" alt="Golu kumar " /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=golu7059" alt="Golu kumar" /></a> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"> -->
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="coading">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golu7059&label=Profile%20views&color=0e75b6&style=flat" alt="golu7059" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Java Full stack Development**
 
-- 💬 Ask me about **bootstrap,flutter,react**
+- 💬 Ask me about **Full Stack deveolopment **
 
 - 📫 How to reach me **golukumarjaisidih@gmail.com**
 
